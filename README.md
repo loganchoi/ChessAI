@@ -1,4 +1,4 @@
-# Chess AI with Limited Iterative Deepening, Min-Max, Alpha-Beta Pruning, and API State Recognition
+# Chess AI with Limited Iterative Deepening, Min-Max, Alpha-Beta Pruning, and State Recognition
 
 ## Overview
 
