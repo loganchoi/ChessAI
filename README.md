@@ -9,5 +9,5 @@ Welcome to the Chess AI project! This repository is the home of a chess-playing 
 - **Limited Iterative Deepening:** Gradually enhances search depth for improved performance.
 - **Min-Max Algorithm:** Evaluates potential moves using the min-max algorithm.
 - **Alpha-Beta Pruning:** Optimizes the search process by reducing the number of nodes evaluated.
-- **API State Recognition:** Dynamically adapts to the game state through an external API.
+- ** State Recognition:** Dynamically adapts to the game state.
 - **Continuous Improvement:** A commitment to achieving a 30% improvement in runtime each week.
